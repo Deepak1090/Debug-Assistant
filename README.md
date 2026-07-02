@@ -31,7 +31,7 @@ Open your live URL, hit "Analyze error" on the pre-filled example, confirm you g
 
 - `pages/index.js` — the page people see (the form, the results)
 - `pages/api/analyze.js` — the hidden backend that safely calls Claude using your API key (this never runs in the browser, so your key stays private)
-- `package.json` — tells Vercel what dependencies to install
+- `package.json` — tells Vercel what dependencies to install 
 
 ## Next steps once this works
 
